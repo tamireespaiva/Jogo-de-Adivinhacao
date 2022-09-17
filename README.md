@@ -1,4 +1,4 @@
-# Jogo de Advinhação
+# Jogo de Adivinhação
 
 ![preview](./.github/preview.png)]
 
